@@ -1,0 +1,18 @@
+# Manipulação de dados
+pandas
+numpy
+
+# Aprendizado de maquina
+scikit-learn
+imbalanced-learn
+xgboost
+joblib
+
+# Vizualização
+matplotlib
+seaborn
+plotly
+
+# Ambiente jupyter
+notebook
+jupyterlab
